@@ -8,3 +8,5 @@ The post which accompanies this example can be found at [ASP.NET Identity 2.0: C
 If you find errors, or have suggestions for improvement, please feel free to open an issue, and/or submit a pull request. 
 
 Note that the project is designed to be simple, without excess enhancements beyond illustrating the concepts discussed in the article. 
+
+Note the changes made for git demo
